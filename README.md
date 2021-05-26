@@ -1,6 +1,7 @@
 # Risky Business
 
-![Risky_Business](02-Homework_11-Machine-Learning_Instructions_Images_credit-risk.PNG)
+![Risky_Business](02-Homework_11-Machine-Learning_Instructions_Images_credit-risk.png)
+
 
 
 ## Background
